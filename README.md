@@ -1,16 +1,16 @@
 # Vicky Vu - Projects Portfolio 
 ## Table of Contents
 This repository contains projects I've worked on. 
-1. [Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
-   * Project: Python, Regression, Classification(Naive Bayes, Random Forest, Data Clearning and Exploration 
-   * Dataset: [hist_appt_report.csv](https://github.com/vuvicky141/Projects/blob/main/Predicting%20Appointment%20Cancellation/hist_appt_report.csv)
-   * Conclusion: Comparing different models concluded that the Randon Forest model yielded the best and more accurate result of 77%. There various factor identified that  contributed to the model performance and was involed in the model's limitations. 
-   
-2. [Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates)
-   * Project Tools: Python, Pandas, Numpy, Data Cleaning and Exploration 
-   * Dataset: [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv)
+1. Python 
+  *[Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
+   **Project: Python, Regression, Classification(Naive Bayes, Random Forest, Data Clearning and Exploration 
+   **Dataset: [hist_appt_report.csv](https://github.com/vuvicky141/Projects/blob/main/Predicting%20Appointment%20Cancellation/hist_appt_report.csv)
+   **Conclusion: Comparing different models concluded that the Randon Forest model yielded the best and more accurate result of 77%. There various factor identified that  contributed to the model performance and was involed in the model's limitations. 
+   *[Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates)
+   **Project Tools: Python, Pandas, Numpy, Data Cleaning and Exploration 
+   **Dataset: [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv)
   [appointments_data.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/appointments_data.csv)
-   * Conclusion: Cross referencing between 2 datasets showed that some appointments have future appointment dates while others do not. After filtering through and identiying the targeted appointment dates, a forecast was given to each patient. 
+   **Conclusion: Cross referencing between 2 datasets showed that some appointments have future appointment dates while others do not. After filtering through and identiying the targeted appointment dates, a forecast was given to each patient. 
 
 
 
