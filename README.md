@@ -1,5 +1,5 @@
 # Vicky Vu - Projects Portfolio 
-## Projects
+## Table of Contents
 This repository contains projects I've worked on. 
 1. [Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
    * Project: Python, Regression, Classification(Naive Bayes, Random Forest, Data Clearning and Exploration 
