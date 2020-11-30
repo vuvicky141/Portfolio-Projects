@@ -13,8 +13,8 @@ This repository contains projects I've worked on.
    * Conclusion: Cross referencing between 2 datasets showed that some appointments have future appointment dates while others do not. After filtering through and identiying the targeted appointment dates, a forecast was given to each patient. 
 3. Kaggle Projects
 4. Public Tableau Visualization 
-  * [Makeover Monday](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
-  * Workout Wednesday
+    * [Makeover Monday](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
+    * Workout Wednesday
 
 ### Public Tableau Visualization
 
