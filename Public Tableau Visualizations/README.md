@@ -1,3 +1,10 @@
+<details>
+<summary>Other Projects</summary>
+[Kaggle](header)
+[Personal Project](header)
+</details>
+
+
 https://www.makeovermonday.co.uk/data/
 
 ### Public Tableau Visualization Highlights
