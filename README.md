@@ -10,7 +10,7 @@ This repository contains projects I've worked on:
   * [Makeover Monday](#sub-heading-2)
   * [Workout Wednesday](#sub-heading-2)
   
-Markup :  - - - -
+- - - -
 
 ## Personal Projects Highlights
 [Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
@@ -29,7 +29,7 @@ Public Tableau Visualization
     * [Makeover Monday](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
     * Workout Wednesday
 
-Markup :  - - - -
+---
 ## Background - About Me
 Hi! My name is Vicky Vu and welcome to my portfolio! I did my undergraduate at UC San Diego and Majored in Biochemistry and Cell Biology and minored in Business. During my time at UC San Diego, I took a bioinformatics class and it was my gateway into the world of data science. I floored by how powerful data science can be in revealing so much information in a dataset. I spent my time afterwards learning more and taking on personal projects. Now, I am a Data Analyst working with a medical clinic that utilizes Big Data to manage custom treatment plans for patients with food allergies. 
 
