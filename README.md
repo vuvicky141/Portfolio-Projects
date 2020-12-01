@@ -7,7 +7,7 @@ This repository contains projects I've worked on:
   * [Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates)
 - [Kaggle](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Kaggle)
   * [Project](#sub-heading-1)
-- [Puublic Tableau Visualizations](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
+- [Public Tableau Visualizations](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
   * [Makeover Monday](#sub-heading-2)
   * [Workout Wednesday](#sub-heading-2)
   
