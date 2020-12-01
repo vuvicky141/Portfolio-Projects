@@ -20,8 +20,7 @@ This repository contains projects I've worked on:
 
 | Personal Projects  |  |
 | ------------- | ------------- |
-|[Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)|    + Tools: Python, Pandas, Numpy, Data Cleaning and Exploration 
-    + [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv) |
+|[Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)|*Tools: Python, Pandas, Numpy, Data Cleaning and Exploration *[patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv) |
 |[Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates) |     + Tools: Python, Pandas, Numpy, Data Cleaning and Exploration 
     + [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv) |
 
