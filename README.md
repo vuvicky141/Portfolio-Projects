@@ -27,9 +27,9 @@ Hi! Welcome to my portfolio! I did my undergraduate at UC San Diego and Majored 
 ### Kaggle Projects Highlights
 
 ### Public Tableau Visualization Highlights
-Public Tableau Visualization 
-    * [Makeover Monday](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
-    * Workout Wednesday
+[Makeover Monday](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
+
+[Workout Wednesday](header)
 
 ----
 ## Contact Me
