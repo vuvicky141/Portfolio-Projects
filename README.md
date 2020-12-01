@@ -1,6 +1,7 @@
 # Vicky Vu - Projects Portfolio 
-## Table of Contents
 This repository contains projects I've worked on: 
+
+## Table of Contents
 - [Personal Projects](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
   * [Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
   * [Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates)
