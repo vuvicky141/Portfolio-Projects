@@ -3,35 +3,15 @@
 This repository contains projects I've worked on: 
 - [Personal Projects](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
   * [Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
-    + Tools: Python, Regression, Classification(Naive Bayes, Random Forest, Data Clearning and Exploration
-    + Dataset: [hist_appt_report.csv](https://github.com/vuvicky141/Projects/blob/main/Predicting%20Appointment%20Cancellation/hist_appt_report.csv)
   * [Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates)
-    + Tools: Python, Pandas, Numpy, Data Cleaning and Exploration 
-    + [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv)
-- [Kaggle](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Puublic Tableau Visualizations](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + Tools: Python, Pandas, Numpy, Data Cleaning and Exploration 
-    + [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv)
+- [Kaggle](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Kaggle)
+  * [Project](#sub-heading-1)
+- [Puublic Tableau Visualizations](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
+  * [Makeover Monday](#sub-heading-2)
+  * [Workout Wednesday](#sub-heading-2)
 
 
-
-| Personal Projects  |  |
-| ------------- | ------------- |
-|[Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)|*Tools: Python, Pandas, Numpy, Data Cleaning and Exploration *[patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv) |
-|[Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates) |     + Tools: Python, Pandas, Numpy, Data Cleaning and Exploration 
-    + [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv) |
-
-
-
-| Kaggle|  |
-| ------------- | ------------- |
-| | link  |
-| | link |
-
-### Personal Projects
+## Personal Projects Highlights
 [Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
    * Project: Python, Regression, Classification(Naive Bayes, Random Forest, Data Clearning and Exploration 
    * Dataset: [hist_appt_report.csv](https://github.com/vuvicky141/Projects/blob/main/Predicting%20Appointment%20Cancellation/hist_appt_report.csv)
@@ -40,21 +20,19 @@ This repository contains projects I've worked on:
    * Project Tools: Python, Pandas, Numpy, Data Cleaning and Exploration 
    Dataset: [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv)
   [appointments_data.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/appointments_data.csv)
-   * Conclusion: Cross referencing between 2 datasets showed that some appointments have future appointment dates while others do not. After filtering through and identiying the targeted appointment dates, a forecast was given to each patient. 
-   
-### Kaggle Projects
+   * Conclusion: Cross referencing between 2 datasets showed that some appointments have future appointment dates while others do not. After filtering through and identiying the targeted appointment dates, a forecast was given to each patient.    
+## Kaggle Projects Highlights
 
-
-### Public Tableau Visualization
+## Public Tableau Visualization Highlights
 Public Tableau Visualization 
     * [Makeover Monday](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
     * Workout Wednesday
 
 
-### Background - About Me
+## Background - About Me
 Hi! My name is Vicky Vu and welcome to my portfolio! I did my undergraduate at UC San Diego and Majored in Biochemistry and Cell Biology and minored in Business. During my time at UC San Diego, I took a bioinformatics class and it was my gateway into the world of data science. I floored by how powerful data science can be in revealing so much information in a dataset. I spent my time afterwards learning more and taking on personal projects. Now, I am a Data Analyst working with a medical clinic that utilizes Big Data to manage custom treatment plans for patients with food allergies. 
 
-### Contact Me
+## Contact Me
 | Contact  |  |
 | ------------- | ------------- |
 | Email | [vickyuvu@outlook.com]  |
