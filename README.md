@@ -11,6 +11,20 @@ This repository contains projects I've worked on:
   * [Workout Wednesday](#sub-heading-2)
 
 
+
+1. [Personal Projects](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
+   1. [Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
+      1. Python, Regression, Classification(Naive Bayes, Random Forest, Data Clearning and Exploration 
+   2. [Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates)
+      1. Python, Pandas, Numpy, Data Cleaning and Exploration 
+2. [Kaggle](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Kaggle)
+   1. [Project](#sub-heading-1)
+3. [Puublic Tableau Visualizations](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
+   1. [Makeover Monday](#sub-heading-2)
+   2. [Workout Wednesday](#sub-heading-2)
+
+
+
 ## Personal Projects Highlights
 [Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
    * Project: Python, Regression, Classification(Naive Bayes, Random Forest, Data Clearning and Exploration 
