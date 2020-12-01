@@ -23,7 +23,7 @@ Hi! Welcome to my portfolio! I did my undergraduate at UC San Diego and Majored 
    
 [Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates)
    * Project Tools: Python, Pandas, Numpy, Data Cleaning and Exploration 
-   Dataset: [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv)
+   * Dataset: [patient_treatment_cycle.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/patient_treatment_cycle.csv)
   [appointments_data.csv](https://github.com/vuvicky141/Projects/blob/main/Forecasting%20Future%20Appointment%20Dates/appointments_data.csv)
    * Conclusion: Cross referencing between 2 datasets showed that some appointments have future appointment dates while others do not. After filtering through and identiying the targeted appointment dates, a forecast was given to each patient.    
    
