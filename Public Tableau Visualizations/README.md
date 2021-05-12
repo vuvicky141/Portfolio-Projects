@@ -1,7 +1,8 @@
 <details>
 <summary>Other Projects</summary>
 [Kaggle](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Kaggle)
-[Personal Project](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Personal%20Projects)
+  
+[Personal Projects](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Personal%20Projects)
 </details>
 
 
