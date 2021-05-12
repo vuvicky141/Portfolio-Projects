@@ -1,11 +1,10 @@
 <details>
 <summary>Other Projects</summary>
-[Kaggle](header)
-[Personal Project](header)
+[Kaggle](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Kaggle)
+[Personal Project](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Personal%20Projects)
 </details>
 
 
-https://www.makeovermonday.co.uk/data/
 
 ### Public Tableau Visualization Highlights
 Makeover Monday and Workout Wednesday are weekly challenges where participants can utilize public data sources to re-create or construct visuals that convey compelling stories of data. Below are some examples of my work using Tableau.
