@@ -41,7 +41,7 @@ Makeover Monday and Workout Wednesday are weekly challenges where participants c
 
 | Original | Mine |
 | ------------- | ------------- |
-| [https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/main/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2032%20/Original%20Chart.png] | ![alt](Public Tableau Visualizations/Makeover Mondays/Week 32 /Final PNG.png)  |
+| [https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/main/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2032%20/Original%20Chart.png] | ![Image1](https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/43028cc26f413c9f7d00827416c94e303c9229e0/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2032%20/Final%20PNG.png)  |
 | LinkedIn  | [https://www.linkedin.com/in/vicky-vu-70b194152/]  |
 
 
