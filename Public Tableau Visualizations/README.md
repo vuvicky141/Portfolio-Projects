@@ -16,8 +16,8 @@ Makeover Monday and Workout Wednesday are weekly challenges where participants c
 
 | Original | Mine |
 | ------------- | ------------- |
-|<img src="https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/015075b28602d32cdaa8cdc818ba0968bd67798c/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2032%20/Original%20Chart.png" width="500" height="500"> | <img src="https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/43028cc26f413c9f7d00827416c94e303c9229e0/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2032%20/Final%20PNG.png" width="500" height="500">  |
-|<img src="https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/a5573dc89d7344da1077666d6f3a9f03b51c136c/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2046/Week%2046%20Original.png" width="500" height="500"> | <img src="https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/a5573dc89d7344da1077666d6f3a9f03b51c136c/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2046/Week%2046%20Final%20Dashboard.png" width="500" height="500">  |
+|<img src="https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/015075b28602d32cdaa8cdc818ba0968bd67798c/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2032%20/Original%20Chart.png" width="300" height="300"> | <img src="https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/43028cc26f413c9f7d00827416c94e303c9229e0/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2032%20/Final%20PNG.png" width="300" height="300">  |
+|<img src="https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/a5573dc89d7344da1077666d6f3a9f03b51c136c/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2046/Week%2046%20Original.png" width="300" height="300"> | <img src="https://github.com/vuvicky141/Vicky-Vu-Portfolio/blob/a5573dc89d7344da1077666d6f3a9f03b51c136c/Public%20Tableau%20Visualizations/Makeover%20Mondays/Week%2046/Week%2046%20Final%20Dashboard.png" width="300" height="300">  |
 
 
 
