@@ -1,4 +1,4 @@
-# Vicky Vu - Projects Portfolio 
+# Vicky Vu's Portfolio 
 ## Table of Contents
 - [Personal Projects](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Personal%20Projects)
   * [Predicting Appointment Canellations](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Personal%20Projects/Predicting%20Appointment%20Cancellation)
