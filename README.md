@@ -5,9 +5,9 @@
   * [Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates)
 - [Kaggle](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Kaggle)
   * [Project](#sub-heading-1)
-- [Public Tableau Visualizations](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Public%20Tableau%20Visualizations)
-  * [Makeover Monday](#sub-heading-2)
-  * [Workout Wednesday](#sub-heading-2)
+- [Public Tableau Visualizations](https://public.tableau.com/profile/vicky.vu#!/)
+  * [Makeover Monday](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Public%20Tableau%20Visualizations/Makeover%20Mondays)
+  * [Workout Wednesday](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Public%20Tableau%20Visualizations/Workout%20Wednesdays)
   
 - - - -
 
