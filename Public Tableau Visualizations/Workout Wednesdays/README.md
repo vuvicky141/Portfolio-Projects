@@ -1,4 +1,4 @@
-#### [Workout Wednesday](http://www.workout-wednesday.com/)
+## [Workout Wednesday](http://www.workout-wednesday.com/)
 >Workout Wednesday is a weekly challenge to re-create a data-driven visualization. The challenges are designed to grow participants knowledge of Tableau and help kick-start personal development.
 
 >Each Wednesday a challenge is release and participants are asked to replicate the challenge that is posed as closely as possible. >When you think you have it, leave a comment with a link to your visualization, share on Tableau Public, or post on Twitter for >others to enjoy.
