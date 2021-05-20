@@ -12,7 +12,7 @@
 Makeover Monday and Workout Wednesday are weekly challenges where participants can utilize public data sources to re-create or construct visuals that convey compelling stories of data. Below are some examples of my work using Tableau.
 
 #### [Makeover Monday](https://www.makeovermonday.co.uk/)
->Highlights
+##### Highlights
 
 | Original | Mine |
 | ------------- | ------------- |
