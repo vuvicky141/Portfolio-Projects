@@ -1,8 +1,8 @@
 # Vicky Vu - Projects Portfolio 
 ## Table of Contents
-- [Personal Projects](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
-  * [Predicting Appointment Canellations](https://github.com/vuvicky141/Projects/tree/main/Predicting%20Appointment%20Cancellation)
-  * [Forecasting Future Appointments](https://github.com/vuvicky141/Projects/tree/main/Forecasting%20Future%20Appointment%20Dates)
+- [Personal Projects](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Personal%20Projects)
+  * [Predicting Appointment Canellations](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Personal%20Projects/Predicting%20Appointment%20Cancellation)
+  * [Forecasting Future Appointments](https://github.com/vuvicky141/Vicky-Vu-Portfolio/tree/main/Personal%20Projects/Forecasting%20Future%20Appointment%20Dates)
 - [Kaggle](https://github.com/vuvicky141/Portfolio-Projects/tree/main/Kaggle)
   * [Project](#sub-heading-1)
 - [Public Tableau Visualizations](https://public.tableau.com/profile/vicky.vu#!/)
