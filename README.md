@@ -58,6 +58,7 @@ Makeover Monday and Workout Wednesday are weekly challenges where participants c
 | ------------- | ------------- |
 | Email | [vickyuvu@outlook.com]  |
 | LinkedIn  | [https://www.linkedin.com/in/vicky-vu-70b194152/]  |
+| Tableau | https://public.tableau.com/profile/vicky.vu#!/ |
 
 ## Background - About Me
 Hi! Welcome to my portfolio! I did my undergraduate at UC San Diego and Majored in Biochemistry and Cell Biology and minored in Business. During my time at UC San Diego, I took a bioinformatics class and it was my gateway into the world of data science. I floored by how powerful data science can be in revealing so much information in a dataset. I spent my time afterwards learning more and taking on personal projects. Now, I am a Data Analyst working with a medical clinic that utilizes Big Data to manage custom treatment plans for patients with food allergies. 
